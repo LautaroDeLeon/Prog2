@@ -14,3 +14,11 @@ C:\Users\merce\Desktop\GitHub\Prog2\Prog_2Practico_1\Ejercicio1\Ejercicio1\obj\D
 C:\Users\merce\Desktop\GitHub\Prog2\Prog_2Practico_1\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.csproj.CoreCompileInputs.cache
 C:\Users\merce\Desktop\GitHub\Prog2\Prog_2Practico_1\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.exe
 C:\Users\merce\Desktop\GitHub\Prog2\Prog_2Practico_1\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.pdb
+C:\Users\santi\OneDrive\Desktop\CEI\GitHub\Prog2\Prog_2Practico_1\Ejercicio1\Ejercicio1\bin\Debug\Ejercicio1.exe.config
+C:\Users\santi\OneDrive\Desktop\CEI\GitHub\Prog2\Prog_2Practico_1\Ejercicio1\Ejercicio1\bin\Debug\Ejercicio1.exe
+C:\Users\santi\OneDrive\Desktop\CEI\GitHub\Prog2\Prog_2Practico_1\Ejercicio1\Ejercicio1\bin\Debug\Ejercicio1.pdb
+C:\Users\santi\OneDrive\Desktop\CEI\GitHub\Prog2\Prog_2Practico_1\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.csproj.AssemblyReference.cache
+C:\Users\santi\OneDrive\Desktop\CEI\GitHub\Prog2\Prog_2Practico_1\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.csproj.SuggestedBindingRedirects.cache
+C:\Users\santi\OneDrive\Desktop\CEI\GitHub\Prog2\Prog_2Practico_1\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.csproj.CoreCompileInputs.cache
+C:\Users\santi\OneDrive\Desktop\CEI\GitHub\Prog2\Prog_2Practico_1\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.exe
+C:\Users\santi\OneDrive\Desktop\CEI\GitHub\Prog2\Prog_2Practico_1\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.pdb

@@ -14,7 +14,7 @@ namespace Ejercicio1
         public Auto()
         {
             this.tipoClimatizador = "Sin climatizador";
-            this.tapiceria = "Cuero rojo";
+            this.tapiceria = "Tapizado de Cuero rojo";
         }
         public Auto(string tipoClim, string tipoTap)
         {

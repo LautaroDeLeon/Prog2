@@ -39,22 +39,22 @@ namespace Ejercicio1
                 switch (aux)
                 {
                     case 1:
-                        miAuto2.setTap("Cuero negro");
+                        miAuto2.setTap("Tapizado de Cuero negro");
                         break;
                     case 2:
-                        miAuto2.setTap("Sintetico negro");
+                        miAuto2.setTap("Tapizado de Sintetico negro");
                         break;
                     case 3:
-                        miAuto2.setTap("Cuero blanco");
+                        miAuto2.setTap("Tapizado de Cuero blanco");
                         break;
                     case 4:
-                        miAuto2.setTap("Sintetico blanco");
+                        miAuto2.setTap("Tapizado de Sintetico blanco");
                         break;
                     case 5:
-                        miAuto2.setTap("Cuero gris");
+                        miAuto2.setTap("Tapizado de Cuero gris");
                         break;
                     case 6:
-                        miAuto2.setTap("Sintetico gris");
+                        miAuto2.setTap("Tapizado de Sintetico gris");
                         break;
                 }
 
@@ -115,22 +115,22 @@ namespace Ejercicio1
                 switch (nroGenerado)
                 {
                     case 1:
-                        tapizado = "Cuero negro";
+                        tapizado = "Tapizado de Cuero negro";
                         break;
                     case 2:
-                        tapizado = "Sintetico negro";
+                        tapizado = "Tapizado de Sintetico negro";
                         break;
                     case 3:
-                        tapizado = "Cuero blanco";
+                        tapizado = "Tapizado de Cuero blanco";
                         break;
                     case 4:
-                        tapizado = "Sintetico blanco";
+                        tapizado = "Tapizado de Sintetico blanco";
                         break;
                     case 5:
-                        tapizado = "Cuero gris";
+                        tapizado = "Tapizado de Cuero gris";
                         break;
                     case 6:
-                        tapizado = "Sintetico gris";
+                        tapizado = "Tapizado de Sintetico gris";
                         break;
                 }
                 switch (nroClim)
