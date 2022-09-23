@@ -50,11 +50,11 @@ namespace Ejercicio2
         }
         public void imprimirNombre()
         { 
-            Console.WriteLine(nombre);
+            Console.WriteLine("Mi nombre es " + nombre);
         }
         public void imprimirNombreEdad()
         {
-            Console.WriteLine(nombre + ", " + edad + " años");
+            Console.WriteLine("Mi nombre es " + nombre + ", tengo " + edad + " años");
         }
     }
 }

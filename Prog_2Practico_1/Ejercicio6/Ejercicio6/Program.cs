@@ -45,7 +45,7 @@ namespace Ejercicio6
 
                 miliseg += 1;
                 
-                if(miliseg == 10)
+                if(miliseg == 100)
                 {
                     segundos += 1;
                     miliseg = 0;
