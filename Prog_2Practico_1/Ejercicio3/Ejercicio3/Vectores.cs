@@ -30,18 +30,24 @@ namespace Ejercicio3
         {
             this.y2 = numero;
         }
-        public void devuelveRestaSuma()
+        public void devuelveSuma()
         {
-            Console.WriteLine("SUMA:");
+            Console.WriteLine("El resultado de la suma de los vectores es:");
             Console.WriteLine((x1 + y1,x2 + y2));
-            Console.WriteLine("RESTA:");
-            Console.WriteLine((x1 - y1,x2 - y2));
             Console.WriteLine("");
-        } 
+        }
+        public void devuelveResta()
+        {
+            Console.WriteLine("El resultado de la resta de los vectores es:");
+            Console.WriteLine((x1 - y1, x2 - y2));
+            Console.WriteLine("");
+        }
         public void distanciaEntreVectores()
         {
+            Console.WriteLine("La distancia entre vectores es:");
             distancia = (((x1 - y1)*(x1 - y1)) + ((x2 - y2) * (x2 - y2)));
             Console.WriteLine(Math.Sqrt(distancia));
+            Console.WriteLine("");
         }
     }
 }
