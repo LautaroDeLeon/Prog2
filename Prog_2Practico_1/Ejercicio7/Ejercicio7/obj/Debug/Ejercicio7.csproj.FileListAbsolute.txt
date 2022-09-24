@@ -1,0 +1,8 @@
+C:\Users\merce\Desktop\GitHub\Prog2\Prog_2Practico_1\Ejercicio7\Ejercicio7\bin\Debug\Ejercicio7.exe.config
+C:\Users\merce\Desktop\GitHub\Prog2\Prog_2Practico_1\Ejercicio7\Ejercicio7\bin\Debug\Ejercicio7.exe
+C:\Users\merce\Desktop\GitHub\Prog2\Prog_2Practico_1\Ejercicio7\Ejercicio7\bin\Debug\Ejercicio7.pdb
+C:\Users\merce\Desktop\GitHub\Prog2\Prog_2Practico_1\Ejercicio7\Ejercicio7\obj\Debug\Ejercicio7.csproj.AssemblyReference.cache
+C:\Users\merce\Desktop\GitHub\Prog2\Prog_2Practico_1\Ejercicio7\Ejercicio7\obj\Debug\Ejercicio7.csproj.SuggestedBindingRedirects.cache
+C:\Users\merce\Desktop\GitHub\Prog2\Prog_2Practico_1\Ejercicio7\Ejercicio7\obj\Debug\Ejercicio7.csproj.CoreCompileInputs.cache
+C:\Users\merce\Desktop\GitHub\Prog2\Prog_2Practico_1\Ejercicio7\Ejercicio7\obj\Debug\Ejercicio7.exe
+C:\Users\merce\Desktop\GitHub\Prog2\Prog_2Practico_1\Ejercicio7\Ejercicio7\obj\Debug\Ejercicio7.pdb
